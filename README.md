@@ -1,3 +1,3 @@
 # JWT Authentication
 
-This is just a test repository.
+An introduction to JWT authentication using **Express.js** and **Node**.
